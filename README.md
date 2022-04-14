@@ -1,6 +1,6 @@
 # Senior-Design-SpaceSystems
 Swarm Mission: Porkchop plots, Earth-Mars Transfer Trajectories, B-Plane Targeting (Direct Entry), and Mars Entry Descent Landing.
-
+Using NASA SPICE Kernel (de440.bsp)
 Mission Porkchop Plot
 - Selected Launch Date: April 18th 2027
 - Selected Arrival Date: August 17th 2028
