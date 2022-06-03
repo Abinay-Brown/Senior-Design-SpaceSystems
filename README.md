@@ -1,4 +1,4 @@
-# Senior-Design-SpaceSystems
+# Senior-Design
 Swarm Mission: Porkchop plots, Earth-Mars Transfer Trajectories, B-Plane Targeting (Direct Entry), and Mars Entry Descent Landing.
 Using NASA SPICE Kernel (de440.bsp)
 Mission Porkchop Plot
